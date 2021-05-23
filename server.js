@@ -11,10 +11,10 @@ const cadenaConexion = {
 };
 
 const conexionAzure = {
-    host: "luisserver123.mysql.database.azure.com", 
-    user: "Luis@luisserver123", 
-    password: "Password1", 
-    database: "epic", 
+    host: "", 
+    user: "", 
+    password: "", 
+    database: "", 
     port: 3306
 };
 
